@@ -124,13 +124,13 @@ Laptop-Price-Predictor/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Krishna1210-dot/Laptop_Price_Predictor2025.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Laptop-Price-Predictor
+cd Laptop-Price-Predictor2025
 ```
 
 3. Install dependencies:
