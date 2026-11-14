@@ -75,10 +75,10 @@ The project uses the All Computer Prices dataset, containing 100,000 computer re
 
 Final XGBoost model evaluation:
 
-| Metric | Score |
-| R² Score | 0.864 |
-| Mean Absolute Error (MAE) | 150.84 |
 
+ R² Score : 0.864
+ Mean Absolute Error (MAE) 150.84 
+ 
 *These figures are from the original-target XGBoost comparison on the held-out test set. MAE is expressed in the dataset's original price units.*
 
 ## 💻 Application Features
