@@ -57,8 +57,8 @@ The project uses the All Computer Prices dataset, containing 100,000 computer re
 
 ### 4. Model Development
 
--Experimented with multiple regression algorithms and evaluated their performance using appropriate regression metrics.
--XGBoost Regressor was selected for the final application after model experimentation and hyperparameter tuning.
+- Experimented with multiple regression algorithms and evaluated their performance using appropriate regression metrics.
+- XGBoost Regressor was selected for the final application after model experimentation and hyperparameter tuning.
 
 ### 5. Model Integration
 
@@ -68,8 +68,8 @@ The project uses the All Computer Prices dataset, containing 100,000 computer re
 - Integrated the trained model with the application for laptop price predictions.
 
 ### 6. Market Calibration & Business Logic
--Identified discrepancies between the dataset's global pricing baseline and current Indian retail market values.
--Implemented an experimental, rule-based post-processing layer using custom scaling factors (based on form factor, GPU category, and VRAM) to calibrate predicted prices for real-world accuracy.
+- Identified discrepancies between the dataset's global pricing baseline and current Indian retail market values.
+- Implemented an experimental, rule-based post-processing layer using custom scaling factors (based on form factor, GPU category, and VRAM) to calibrate predicted prices for real-world accuracy.
 
 ## 📈 Model Performance
 
@@ -77,6 +77,7 @@ Final XGBoost model evaluation:
 
 
  R² Score : 0.864
+ 
  Mean Absolute Error (MAE) 150.84 
  
 *These figures are from the original-target XGBoost comparison on the held-out test set. MAE is expressed in the dataset's original price units.*
