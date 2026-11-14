@@ -78,7 +78,7 @@ Final XGBoost model evaluation:
 
  R² Score : 0.864
  
- Mean Absolute Error (MAE) 150.84 
+ Mean Absolute Error (MAE) : 150.84 
  
 *These figures are from the original-target XGBoost comparison on the held-out test set. MAE is expressed in the dataset's original price units.*
 
