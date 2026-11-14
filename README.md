@@ -162,7 +162,7 @@ The dataset was used for exploratory data analysis, feature engineering and lapt
 ## 🔮 Future Improvements
 
 - Deploy the Streamlit application to a cloud platform for public access.
-- Scrape live Indian e-commerce data (Flipkart/Amazon) to replace the manual calibration multipliers with a continuously updating, data-driven pricing index.
+- Experiment with additional regression models and improve prediction performance across different laptop price segments.
 - Develop a validated regional price calibration approach.
 - Experiment with additional regression models.
 - Expand the dataset to include thermal performance limits (TGP) as a feature, as it heavily impacts GPU pricing.
